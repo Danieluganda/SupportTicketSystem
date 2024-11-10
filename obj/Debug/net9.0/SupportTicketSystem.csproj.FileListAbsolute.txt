@@ -1,0 +1,7 @@
+C:\Users\SERVERPT-260424\Dev\C#\Ecom\SupportTicketSystem\obj\Debug\net9.0\SupportTicketSystem.csproj.AssemblyReference.cache
+C:\Users\SERVERPT-260424\Dev\C#\Ecom\SupportTicketSystem\obj\Debug\net9.0\SupportTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVERPT-260424\Dev\C#\Ecom\SupportTicketSystem\obj\Debug\net9.0\SupportTicketSystem.AssemblyInfoInputs.cache
+C:\Users\SERVERPT-260424\Dev\C#\Ecom\SupportTicketSystem\obj\Debug\net9.0\SupportTicketSystem.AssemblyInfo.cs
+C:\Users\SERVERPT-260424\Dev\C#\Ecom\SupportTicketSystem\obj\Debug\net9.0\SupportTicketSystem.csproj.CoreCompileInputs.cache
+C:\Users\SERVERPT-260424\Dev\C#\Ecom\SupportTicketSystem\obj\Debug\net9.0\SupportTicketSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SERVERPT-260424\Dev\C#\Ecom\SupportTicketSystem\obj\Debug\net9.0\SupportTicketSystem.MvcApplicationPartsAssemblyInfo.cache
